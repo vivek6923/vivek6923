@@ -5,9 +5,8 @@
 
 - 💬 Ask me about **NodeJS, AWS, NestJS, ReactJS**
 
-- 📫 How to reach me **vivek6923sh@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/-vivek-sharma-/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
