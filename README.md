@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
 <h3 align="center">Innovative Lead Developer with more than half decade of industry experience and extensive programming knowledge. Experienced handling all stages of development and following all software guidelines. Troubleshoots glitches, improves on existing software, and tests products in real-life situations.</h3>
 
-- 🔭 I’m currently working on [Onion-Pay](https://onion-pay.com/)
+- 🔭 I’m currently working on [Zerone-Pay](https://cardse.co/)
 
 - 💬 Ask me about **NodeJS, AWS, NestJS, ReactJS**
 
